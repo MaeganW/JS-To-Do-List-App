@@ -1,2 +1,2 @@
 # JS-To-Do-List-App
-Showcase JS, CSS, and HTML skills in creation of to-do list app. Coded along with https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861520?start=0
+<p>Showcase JS, CSS, and HTML skills in creation of to-do list app. Completed as an assignment from Colt Steele's Web Developer Bootcamp Course. Check out his course <a href="https://www.udemy.com/the-web-developer-bootcamp/learn/v4/content">here</a>!</p>
